@@ -1,4 +1,4 @@
-package main.java.com.sxli.algorithm.flowlimit;
+package com.sxli.algorithm.flowlimit;
 
 import com.google.common.util.concurrent.RateLimiter;
 import org.apache.http.HttpEntity;

@@ -1,4 +1,4 @@
-package main.java.com.sxli.algorithm.controller;
+package com.sxli.algorithm.controller;
 
 import main.java.com.sxli.algorithm.service.TokenService;
 import org.springframework.beans.factory.annotation.Autowired;
